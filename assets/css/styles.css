@@ -74,6 +74,7 @@
     margin-top: 15px;
     border: none;
     cursor: pointer;
+    -webkit-appearance: none;
 }
 
 .btn:hover{
